@@ -1,0 +1,60 @@
+/* 
+  Localizable.strings
+  MyWorkout
+
+  Created by Chanoknun Choosaksilp on 18/9/2564 BE.
+  
+*/
+
+/* exercise */
+"Burpee" = "Burpee";
+
+/* Continue */
+"Continue" = "Continue";
+
+/* Couldn't find video */
+"Couldn't find \(Exercise.exercise[index].videoName).mp4" = "Couldn't find \(Exercise.exercise[index].videoName).mp4";
+
+/* Done Button */
+"Done" = "Done";
+
+/* Title */
+"Get fit" = "Get fit";
+
+/* Go Workout */
+"Get Start" = "Get Start";
+
+/* Success Comment */
+"Good job completing all exercises!\nRemember tomorrow's another day.\nSo eat well and get some rest." = "Good job completing all exercises!\nRemember tomorrow's another day.\nSo eat well and get some rest.";
+
+/* History */
+"History" = "History";
+
+/* exercise */
+"Lunges" = "Lunges";
+
+/* Nice ! */
+"Nice !" = "Nice !";
+
+/* exercise */
+"ObiqueAndCore" = "ObiqueAndCore";
+
+/* exercise */
+"Planks" = "Planks";
+
+
+/* exercise */
+"Squat" = "Squat";
+
+/* Start Button */
+"Start" = "Start";
+
+/* Exercise Progress */
+"Today Progress :" = "Today Progress :";
+
+/* Welcome Text */
+"Welcome" = "Welcome";
+
+/* Content */
+"with high intensity interval training" = "with high intensity interval training";
+

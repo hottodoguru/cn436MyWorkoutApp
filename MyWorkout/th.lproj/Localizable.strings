@@ -1,0 +1,59 @@
+/* 
+  Localizable.strings
+  MyWorkout
+
+  Created by Chanoknun Choosaksilp on 18/9/2564 BE.
+  
+*/
+
+/* exercise */
+"Burpee" = "ท่าเบอร์พี่";
+
+/* Continue */
+"Continue" = "ไปต่อ";
+
+/* Couldn't find video */
+"Couldn't find \(Exercise.exercise[index].videoName).mp4" = "ไม่พบไฟล์ \(Exercise.exercise[index].videoName).mp4";
+
+/* Done Button */
+"Done" = "เสร็จสิ้น";
+
+/* Title */
+"Get fit" = "ลุย";
+
+/* Go Workout */
+"Get Start" = "เริ่ม";
+
+/* Success Comment */
+"Good job completing all exercises!\nRemember tomorrow's another day.\nSo eat well and get some rest." = "ยอดเยี่ยม กระเทียมดองที่ทำเสร็จหมดทุกท่า เวรี่กู๊ด\nอย่าลืมทำพรุ่งนี้เด้อสู\n กินข้าวเยอะๆละมาลุยต่อเด้อ";
+
+/* History */
+"History" = "ประวัติการออกกำลังกาย";
+
+/* exercise */
+"Lunges" = "ท่าย่อขา";
+
+/* Nice ! */
+"Nice !" = "สวยพี่สวย !";
+
+
+
+/* exercise */
+"Planks" = "ท่าแพลงก์";
+
+
+/* exercise */
+"Squat" = "ท่าสควอทต์";
+
+/* Start Button */
+"Start" = "เริ่ม";
+
+/* Exercise Progress */
+"Today Progress :" = "ความคืบหน้าในวันนี้ :";
+
+/* Welcome Text */
+"Welcome" = "ยินดีต้อนรับ";
+
+/* Content */
+"with high intensity interval training" = "กับการฝึกที่เข้มข้นจัด";
+

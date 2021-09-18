@@ -7,11 +7,14 @@
 
 import SwiftUI
 
+import SwiftUI
+
 @main
-struct MyWorkoutApp: App {
+struct MyWorkOutApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(HistoryStore())
         }
     }
 }

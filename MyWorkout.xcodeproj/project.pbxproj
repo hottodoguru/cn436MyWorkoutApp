@@ -11,6 +11,21 @@
 		0964237126E5EED300F37160 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0964237026E5EED300F37160 /* ContentView.swift */; };
 		0964237326E5EED400F37160 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0964237226E5EED400F37160 /* Assets.xcassets */; };
 		0964237626E5EED400F37160 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0964237526E5EED400F37160 /* Preview Assets.xcassets */; };
+		0964238026E5F0D800F37160 /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0964237F26E5F0D800F37160 /* WelcomeView.swift */; };
+		0964238226E5F10400F37160 /* ExerciseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0964238126E5F10400F37160 /* ExerciseView.swift */; };
+		0964238626E5F38500F37160 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0964238526E5F38500F37160 /* HeaderView.swift */; };
+		0964238826E657AE00F37160 /* RatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0964238726E657AE00F37160 /* RatingView.swift */; };
+		0964238A26E6591C00F37160 /* HistoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0964238926E6591C00F37160 /* HistoryView.swift */; };
+		0964238C26E65A4900F37160 /* DateExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0964238B26E65A4900F37160 /* DateExtension.swift */; };
+		0964238E26E65FB600F37160 /* ImageExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0964238D26E65FB600F37160 /* ImageExtension.swift */; };
+		0964239126E6614700F37160 /* SuccessView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0964239026E6614700F37160 /* SuccessView.swift */; };
+		0964239326EA01C000F37160 /* Exercise.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0964239226EA01C000F37160 /* Exercise.swift */; };
+		0964239526EA03D000F37160 /* HistoryStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0964239426EA03D000F37160 /* HistoryStore.swift */; };
+		0964239926EA080100F37160 /* HistoryStoreDevData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0964239826EA080100F37160 /* HistoryStoreDevData.swift */; };
+		0964239B26EA13E900F37160 /* TimerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0964239A26EA13E900F37160 /* TimerView.swift */; };
+		0964239D26F597CC00F37160 /* FooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0964239C26F597CC00F37160 /* FooterView.swift */; };
+		0964239F26F598DD00F37160 /* TodayProgessView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0964239E26F598DD00F37160 /* TodayProgessView.swift */; };
+		096423AA26F59DC800F37160 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 096423AC26F59DC800F37160 /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +35,22 @@
 		0964237226E5EED400F37160 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0964237526E5EED400F37160 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0964237726E5EED400F37160 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0964237F26E5F0D800F37160 /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
+		0964238126E5F10400F37160 /* ExerciseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseView.swift; sourceTree = "<group>"; };
+		0964238526E5F38500F37160 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		0964238726E657AE00F37160 /* RatingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingView.swift; sourceTree = "<group>"; };
+		0964238926E6591C00F37160 /* HistoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryView.swift; sourceTree = "<group>"; };
+		0964238B26E65A4900F37160 /* DateExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateExtension.swift; sourceTree = "<group>"; };
+		0964238D26E65FB600F37160 /* ImageExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageExtension.swift; sourceTree = "<group>"; };
+		0964239026E6614700F37160 /* SuccessView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuccessView.swift; sourceTree = "<group>"; };
+		0964239226EA01C000F37160 /* Exercise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise.swift; sourceTree = "<group>"; };
+		0964239426EA03D000F37160 /* HistoryStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryStore.swift; sourceTree = "<group>"; };
+		0964239826EA080100F37160 /* HistoryStoreDevData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryStoreDevData.swift; sourceTree = "<group>"; };
+		0964239A26EA13E900F37160 /* TimerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerView.swift; sourceTree = "<group>"; };
+		0964239C26F597CC00F37160 /* FooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FooterView.swift; sourceTree = "<group>"; };
+		0964239E26F598DD00F37160 /* TodayProgessView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayProgessView.swift; sourceTree = "<group>"; };
+		096423AB26F59DC800F37160 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		096423AD26F59E8800F37160 /* th */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = th; path = th.lproj/Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,11 +83,15 @@
 		0964236D26E5EED300F37160 /* MyWorkout */ = {
 			isa = PBXGroup;
 			children = (
+				0964238426E5F2BA00F37160 /* Videos */,
 				0964236E26E5EED300F37160 /* MyWorkoutApp.swift */,
-				0964237026E5EED300F37160 /* ContentView.swift */,
+				0964238326E5F11200F37160 /* View */,
 				0964237226E5EED400F37160 /* Assets.xcassets */,
 				0964237726E5EED400F37160 /* Info.plist */,
 				0964237426E5EED400F37160 /* Preview Content */,
+				0964238F26E6607800F37160 /* Extension */,
+				0964239726EA03E300F37160 /* Model */,
+				096423AC26F59DC800F37160 /* Localizable.strings */,
 			);
 			path = MyWorkout;
 			sourceTree = "<group>";
@@ -65,8 +100,51 @@
 			isa = PBXGroup;
 			children = (
 				0964237526E5EED400F37160 /* Preview Assets.xcassets */,
+				0964239826EA080100F37160 /* HistoryStoreDevData.swift */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		0964238326E5F11200F37160 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				0964237026E5EED300F37160 /* ContentView.swift */,
+				0964237F26E5F0D800F37160 /* WelcomeView.swift */,
+				0964238126E5F10400F37160 /* ExerciseView.swift */,
+				0964238926E6591C00F37160 /* HistoryView.swift */,
+				0964238726E657AE00F37160 /* RatingView.swift */,
+				0964238526E5F38500F37160 /* HeaderView.swift */,
+				0964239026E6614700F37160 /* SuccessView.swift */,
+				0964239A26EA13E900F37160 /* TimerView.swift */,
+				0964239C26F597CC00F37160 /* FooterView.swift */,
+				0964239E26F598DD00F37160 /* TodayProgessView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		0964238426E5F2BA00F37160 /* Videos */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Videos;
+			sourceTree = "<group>";
+		};
+		0964238F26E6607800F37160 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				0964238B26E65A4900F37160 /* DateExtension.swift */,
+				0964238D26E65FB600F37160 /* ImageExtension.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		0964239726EA03E300F37160 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				0964239226EA01C000F37160 /* Exercise.swift */,
+				0964239426EA03D000F37160 /* HistoryStore.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -110,6 +188,7 @@
 			knownRegions = (
 				en,
 				Base,
+				th,
 			);
 			mainGroup = 0964236226E5EED300F37160;
 			productRefGroup = 0964236C26E5EED300F37160 /* Products */;
@@ -128,6 +207,7 @@
 			files = (
 				0964237626E5EED400F37160 /* Preview Assets.xcassets in Resources */,
 				0964237326E5EED400F37160 /* Assets.xcassets in Resources */,
+				096423AA26F59DC800F37160 /* Localizable.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,18 +218,45 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0964239F26F598DD00F37160 /* TodayProgessView.swift in Sources */,
+				0964239B26EA13E900F37160 /* TimerView.swift in Sources */,
+				0964238A26E6591C00F37160 /* HistoryView.swift in Sources */,
+				0964238C26E65A4900F37160 /* DateExtension.swift in Sources */,
+				0964239126E6614700F37160 /* SuccessView.swift in Sources */,
+				0964238226E5F10400F37160 /* ExerciseView.swift in Sources */,
+				0964239526EA03D000F37160 /* HistoryStore.swift in Sources */,
+				0964239926EA080100F37160 /* HistoryStoreDevData.swift in Sources */,
 				0964237126E5EED300F37160 /* ContentView.swift in Sources */,
+				0964238026E5F0D800F37160 /* WelcomeView.swift in Sources */,
+				0964239326EA01C000F37160 /* Exercise.swift in Sources */,
+				0964238826E657AE00F37160 /* RatingView.swift in Sources */,
 				0964236F26E5EED300F37160 /* MyWorkoutApp.swift in Sources */,
+				0964238E26E65FB600F37160 /* ImageExtension.swift in Sources */,
+				0964238626E5F38500F37160 /* HeaderView.swift in Sources */,
+				0964239D26F597CC00F37160 /* FooterView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		096423AC26F59DC800F37160 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				096423AB26F59DC800F37160 /* en */,
+				096423AD26F59E8800F37160 /* th */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		0964237826E5EED400F37160 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -211,6 +318,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
